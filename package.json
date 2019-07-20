@@ -1,0 +1,20 @@
+{
+  "name": "oauth-server",
+  "version": "1.0.0",
+  "description": "An OAuth service.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"WIP\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crwebb85/OAuth-Server.git"
+  },
+  "author": "crwebb85@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crwebb85/OAuth-Server/issues"
+  },
+  "homepage": "https://github.com/crwebb85/OAuth-Server#readme"
+}
